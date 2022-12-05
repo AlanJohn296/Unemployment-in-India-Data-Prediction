@@ -1,4 +1,4 @@
-# Unemployment in Inida (Data-Prediction)
+# Unemployment in India (Data-Prediction)
 I worked on a data prediction project. The prediciton is done on Unemployment rate in India.
 The dataset was taken from Kaggle.com as a csv file.
 The csv filed was later edited and few unwanted columns like region,sex were removed.
